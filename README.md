@@ -10,6 +10,7 @@ This project simulates four classic **CPU scheduling algorithms**:
 It is implemented using **Java**, with a simple CLI-based input/output system. The user can enter process details and select the algorithm to simulate.
 
 **Sample Output**
+
 Enter number of processes: 3
 Process 1
 Arrival Time: 0
